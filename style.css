@@ -1,0 +1,18 @@
+h1{color: white;
+font-size: 50px;
+background-color: black;
+font-family: 'Trebuchet MS';
+}
+.is-cyan {color: cyan;}
+h2{background-color: purple;
+font-size: 35px;
+font-style: italic;
+color: white;
+text-align: center;
+}
+h3{color: blue;
+    background-color: lightblue;
+    text-align: right;
+    text-decoration: underline;
+    font-size: 25px;
+}
